@@ -17,7 +17,7 @@
 
   /*========== Font and typography ==========*/
   --body-font: 'Open Sans', sans-serif;
-  --h1-font-size: 1.5rem;
+  --h1-font-size: 3.5vh;
   --normal-font-size: .938rem;
   --tiny-font-size: .625rem;
 
@@ -67,7 +67,7 @@ img {
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 .section {
-  padding: 4.5rem 0 2rem;
+  padding: 3.5vh 0 2rem;
 }
 
 .section__title {
