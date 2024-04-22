@@ -99,7 +99,9 @@ img {
   z-index: var(--z-fixed);
   transition: .4s;
 }
-
+li {
+  padding-top: 15px;
+}
 /*=============== NAV ===============*/
 .nav {
   height: var(--header-height);
