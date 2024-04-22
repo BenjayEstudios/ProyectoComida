@@ -95,7 +95,7 @@ img {
   left: 0;
   width: 100%;
   /* background-color: var(--container-color); */
-  background: #b6b0dd;
+  background: #9e7656;
   z-index: var(--z-fixed);
   transition: .4s;
 }

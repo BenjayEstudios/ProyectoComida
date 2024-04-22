@@ -1,3 +1,7 @@
 body{
-    background: #dfdbff;
+    /* background: #dfdbff; */
+    background: #ffecc8;
+}
+.red{
+    background: red;
 }
