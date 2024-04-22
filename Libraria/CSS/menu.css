@@ -8,7 +8,7 @@
   /*========== Colors ==========*/
   --hue: 174;
   --sat: 63%;
-  --first-color: hsl(var(--hue), var(--sat), 40%);
+  --first-color: #fdffcc;
   --first-color-alt: hsl(var(--hue), var(--sat), 36%);
   --title-color: hsl(var(--hue), 12%, 15%);
   --text-color: hsl(var(--hue), 8%, 35%);
@@ -168,7 +168,7 @@ li {
 .active-link {
   position: relative;
   /* color: var(--first-color); */
-  color: #f8ff6f;
+  color: #fdffcc;
   transition: .3s;
 }
 
@@ -226,7 +226,7 @@ li {
     /* display: block; */ /* Minimalist design, visible labels */
   }
   .nav__link:hover {
-    color: var(--first-color);
+    /* color: var(--first-color); */
     color: #fdffcc;
   }
 
