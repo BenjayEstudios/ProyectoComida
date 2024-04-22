@@ -8,12 +8,12 @@
   /*========== Colors ==========*/
   --hue: 174;
   --sat: 63%;
-  --first-color: #fdffcc;
+  --first-color: rgb(73, 47, 22);
   --first-color-alt: hsl(var(--hue), var(--sat), 36%);
   --title-color: hsl(var(--hue), 12%, 15%);
   --text-color: hsl(var(--hue), 8%, 35%);
   --body-color: hsl(var(--hue), 100%, 99%);
-  --container-color: #FFF;
+  --container-color: #9e7656;
 
   /*========== Font and typography ==========*/
   --body-font: 'Open Sans', sans-serif;
@@ -94,8 +94,7 @@ img {
   top: 0;
   left: 0;
   width: 100%;
-  /* background-color: var(--container-color); */
-  background: #9e7656;
+  background-color: var(--container-color);
   z-index: var(--z-fixed);
   transition: .4s;
 }
@@ -167,8 +166,7 @@ li {
 /*Active link*/
 .active-link {
   position: relative;
-  /* color: var(--first-color); */
-  color: #fdffcc;
+  color: var(--first-color);
   transition: .3s;
 }
 
@@ -226,8 +224,7 @@ li {
     /* display: block; */ /* Minimalist design, visible labels */
   }
   .nav__link:hover {
-    /* color: var(--first-color); */
-    color: #fdffcc;
+    color: var(--first-color);
   }
 
   /* First design, remove if you choose the minimalist design */
