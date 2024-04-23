@@ -5,3 +5,7 @@ body{
 .red{
     background: red;
 }
+
+form{
+    background-color: blueviolet;
+}

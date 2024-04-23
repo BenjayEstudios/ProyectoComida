@@ -1,3 +1,37 @@
-body{
-    background-color: #D5CA7C;
+.cuerpo{
+    background:url(../img/background-login.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+/* opacidad imagen */
+.cuerpo:before{
+    content: "";
+    width: 100%;
+    min-height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #ffecc8;
+    opacity: 0.3;
+    z-index: -1;
+}
+
+
+
+form{
+    background-color: rgb(0, 0,0, 0.87);
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    margin-top: 25vh;
+    border: 1px solid black;
+    
+}
+
+.boton{
+    margin-bottom: 20px;
+}
+
+form div label{
+    margin-bottom: 10px;
 }
