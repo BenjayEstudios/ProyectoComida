@@ -8,16 +8,16 @@
   /*========== Colors ==========*/
   --hue: 174;
   --sat: 63%;
-  --first-color: hsl(var(--hue), var(--sat), 40%);
+  --first-color: rgb(73, 47, 22);
   --first-color-alt: hsl(var(--hue), var(--sat), 36%);
   --title-color: hsl(var(--hue), 12%, 15%);
   --text-color: hsl(var(--hue), 8%, 35%);
   --body-color: hsl(var(--hue), 100%, 99%);
-  --container-color: #FFF;
+  --container-color: #9e7656;
 
   /*========== Font and typography ==========*/
   --body-font: 'Open Sans', sans-serif;
-  --h1-font-size: 1.5rem;
+  --h1-font-size: 3.5vh;
   --normal-font-size: .938rem;
   --tiny-font-size: .625rem;
 
@@ -67,7 +67,7 @@ img {
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 .section {
-  padding: 4.5rem 0 2rem;
+  padding: 3.5vh 0 2rem;
 }
 
 .section__title {
@@ -84,8 +84,8 @@ img {
 /*=============== LAYOUT ===============*/
 .container {
   max-width: 968px;
-  margin-left: 1rem;
-  margin-right: 1rem;
+  /* margin-left: 1rem;
+  margin-right: 1rem; */
 }
 
 /*=============== HEADER ===============*/
@@ -98,7 +98,9 @@ img {
   z-index: var(--z-fixed);
   transition: .4s;
 }
-
+li {
+  padding-top: 15px;
+}
 /*=============== NAV ===============*/
 .nav {
   height: var(--header-height);
@@ -143,7 +145,8 @@ img {
   flex-direction: column;
   align-items: center;
   row-gap: 4px;
-  color: var(--title-color);
+  /* color: var(--title-color); */
+  color: white;
   font-weight: 600;
 }
 
