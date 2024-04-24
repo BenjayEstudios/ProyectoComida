@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 44,
-      "versionNonce": 471740232,
+      "version": 45,
+      "versionNonce": 1087247049,
       "isDeleted": false,
       "id": "GiS0Uo3WDIW5milcvm5LT",
       "fillStyle": "solid",
@@ -26,7 +26,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1713889376602,
+      "updated": 1713931222187,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -37,7 +37,7 @@
       "containerId": null,
       "originalText": "Home (Platos Destacados)",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -308,8 +308,8 @@
     },
     {
       "type": "text",
-      "version": 223,
-      "versionNonce": 1603619128,
+      "version": 224,
+      "versionNonce": 149428807,
       "isDeleted": false,
       "id": "FCYWOIjsnCjcVJAJJPxZy",
       "fillStyle": "solid",
@@ -329,7 +329,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1713889376604,
+      "updated": 1713931222192,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -340,7 +340,7 @@
       "containerId": null,
       "originalText": "Carrusel de platos\nen ofectas",
       "lineHeight": 1.25,
-      "baseline": 42
+      "baseline": 43
     },
     {
       "type": "arrow",
@@ -601,8 +601,8 @@
     },
     {
       "type": "text",
-      "version": 69,
-      "versionNonce": 103351880,
+      "version": 70,
+      "versionNonce": 1827852713,
       "isDeleted": false,
       "id": "1g4S4NajYpURR3Kd2TnE8",
       "fillStyle": "solid",
@@ -622,7 +622,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1713889376604,
+      "updated": 1713931222194,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -633,12 +633,12 @@
       "containerId": null,
       "originalText": "*imagen plato*",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 177,
-      "versionNonce": 270200745,
+      "version": 178,
+      "versionNonce": 765147495,
       "isDeleted": false,
       "id": "HZJzYRlHMVM_auIVR2kbK",
       "fillStyle": "solid",
@@ -658,7 +658,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1713758396036,
+      "updated": 1713931222204,
       "link": null,
       "locked": false,
       "fontSize": 16.81705025510417,
@@ -673,8 +673,8 @@
     },
     {
       "type": "text",
-      "version": 334,
-      "versionNonce": 294085176,
+      "version": 335,
+      "versionNonce": 2010952841,
       "isDeleted": false,
       "id": "rHrl0c7F4ePjDUjTUD3-z",
       "fillStyle": "solid",
@@ -694,7 +694,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1713889376610,
+      "updated": 1713931222216,
       "link": null,
       "locked": false,
       "fontSize": 9.666746148617488,
@@ -775,12 +775,12 @@
       "containerId": "IfB5P8PmrLKAW3u9rcH3M",
       "originalText": "Agregar al Carrito",
       "lineHeight": 1.25,
-      "baseline": 16
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 53,
-      "versionNonce": 918617416,
+      "version": 54,
+      "versionNonce": 148731015,
       "isDeleted": false,
       "id": "FqRuPnryJhffIQOuhhjrA",
       "fillStyle": "solid",
@@ -800,7 +800,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1713889376612,
+      "updated": 1713931222221,
       "link": null,
       "locked": false,
       "fontSize": 36,
