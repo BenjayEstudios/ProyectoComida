@@ -5,11 +5,11 @@ function validarLogin(){
 
     if (v_email.trim() === '' || v_email.indexOf('@') === -1 || v_email.indexOf('.') === -1 || v_email.length < 4 || v_email.length > 30){
 
-        alert('El correo electronico ingresado es invalido')
+        window.alert('El correo electronico ingresado es invalido')
     }
     else if(v_contrasena.trim() === ''){
 
-        alert('La contraseña ingresada es invalida')
+        windows.alert('La contraseña ingresada es invalida')
     }
     else {
         alert("Formulario enviado");
