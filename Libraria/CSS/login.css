@@ -1,10 +1,10 @@
 .cuerpo{
-    background:url(../img/background-login.jpg) no-repeat center center fixed;
+    background:url(../img/background-login-4.jpg) no-repeat center center fixed;
     background-size: cover;
 }
 
 /* opacidad imagen */
-.cuerpo:before{
+/* .cuerpo:before{
     content: "";
     width: 100%;
     min-height: 100vh;
@@ -14,7 +14,7 @@
     background: #ffecc8;
     opacity: 0.3;
     z-index: -1;
-}
+} */
 
 
 
