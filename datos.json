@@ -1,0 +1,112 @@
+miCallback([
+    {
+        "id"            : 1,
+        "name_plato"    : "Fideos con salsa",
+        "img_plato"     : "../LIBRERIA/IMAGENES/img1.jpg",
+        "descripcion"   : "",
+        "tipo"          : [
+            "home",
+            "semanal",
+            "diario"
+        ],
+        "precio"        : 2500
+    },
+    {
+        "id"            : 2,
+        "name_plato"  : "Papas con pollo",
+        "img_plato"     : "../LIBRERIA/IMAGENES/img2.jpg",
+        "descripcion"   : "",
+        "tipo"          : [
+            "home",
+            "semanal",
+            "diario"
+        ],
+        "precio"        : 2500
+    },
+    {
+        "id"            : 3,
+        "name_plato"    : "Arroz con pollo",
+        "img_plato"     : "../LIBRERIA/IMAGENES/img3.jpg",
+        "descripcion"   : "",
+        "tipo"          : [
+            "home",
+            "semanal",
+            "diario"
+        ],
+        "precio"        : 2500
+    },
+    {
+        "id"            : 4,
+        "name_plato"    : "Pure con carne",
+        "img_plato"     : "../LIBRERIA/IMAGENES/img4.jpg",
+        "descripcion"   : "",
+        "tipo"          : [
+            "home",
+            "semanal"
+        ],
+        "precio"        : 2500
+    },
+    {
+        "id"            : 5,
+        "name_plato"    : "Texto de Ejemplo",
+        "img_plato"     : "",
+        "descripcion"   : "",
+        "tipo"          : [
+            "home",
+            "semanal"
+        ],
+        "precio"        : 0
+    },
+    {
+        "id"            : 6,
+        "name_plato"    : "Texto de Ejemplo",
+        "img_plato"     : "",
+        "descripcion"   : "",
+        "tipo"          : [
+            "home",
+            "semanal"
+        ],
+        "precio"        : 0
+    },
+    {
+        "id"            : 7,
+        "name_plato"    : "Texto de Ejemplo",
+        "img_plato"     : "",
+        "descripcion"   : "",
+        "tipo"          : [
+            "home"
+        ],
+        "precio"        : 0
+    },
+    {
+        "id"            : 8,
+        "name_plato"    : "Texto de Ejemplo",
+        "img_plato"     : "",
+        "descripcion"   : "",
+        "tipo"          : [
+            "home"
+        ],
+        "precio"        : 0
+    },
+    {
+        "id"            : 9,
+        "name_plato"    : "Texto de Ejemplo",
+        "img_plato"     : "",
+        "descripcion"   : "",
+        "tipo"          : [
+            "home"
+        ],
+        "precio"        : 0
+    },
+    {
+        "id"            : 10,
+        "name_plato"    : "Texto de Ejemplo",
+        "img_plato"     : "",
+        "descripcion"   : "",
+        "tipo"          : [
+            "home"
+        ],
+        "precio"        : 0
+    }
+    
+]);
