@@ -1,0 +1,40 @@
+.logo {
+    height: 100px;
+    width: auto;
+}
+
+.logo-principal {
+    height: auto;
+    width: auto;
+}
+
+.degrade-fondo {
+    background-color: rgb(0, 0, 0, 0.6) !important;
+    border-radius: 20px;
+    color: white;
+}
+
+.color-text {
+    color: #C9E265;
+}
+
+.degrade-inputs {
+    background-color: rgb(0, 0, 0, 0.3) !important;
+    color: white;
+}
+
+.line-separacion {
+    height: 35px;
+}
+
+.button {
+    background-color: #C9E265 !important;
+}
+
+.bg-general {
+    background-image: url('/Users/sebastiangonzalez/Documents/1Sem-2año/Programacion Web/Examen PW/imagenesyummi/bg-login.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
