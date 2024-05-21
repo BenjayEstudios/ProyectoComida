@@ -24,6 +24,7 @@ const miCallback = function(platos){
             const img=document.createElement('img');
             img.classList.add('card-img-top');
             img.setAttribute('src',img_plato);
+            img.setAttribute('style');
         
             const divCardBody=document.createElement('div');
             divCardBody.classList.add('card-body');
