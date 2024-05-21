@@ -1,0 +1,38 @@
+#navstyle {
+    padding: 0;
+    background-color: white;
+}
+
+.logo {
+    height: 80px;
+    width: 80px;
+}
+
+.button {
+    background-color: #C9E265 !important;
+}
+
+
+.bg-quienes {
+    background-color: #C9E265;
+    padding: 50px;
+}
+
+.shadow-sug {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 25px 25px -20px;
+}
+
+.center.quien {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footerstyle {
+    background-color: rgb(0, 0, 0, 0.4) !important;
+}
+
+.logofooter {
+    height: 180px;
+    width: 180px;
+}
