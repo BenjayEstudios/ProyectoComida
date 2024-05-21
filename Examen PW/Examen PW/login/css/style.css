@@ -32,7 +32,7 @@
 }
 
 .bg-general {
-    background-image: url('/Users/sebastiangonzalez/Documents/1Sem-2año/Programacion Web/Examen PW/imagenesyummi/bg-login.png');
+    background-image: url('../../imagenesyummi/bg-login.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
