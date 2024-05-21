@@ -3,7 +3,7 @@
     {
         "id"            : 1,
         "name_plato"    : "Fideos con salsa",
-        "img_plato"     : "../../../LIBRERIA/IMAGENES/img1.jpg",
+        "img_plato"     : "../../../LIBRERIA/IMAGENES/img1.png",
         "descripcion"   : "",
         "tipo"          : [
             "home",
@@ -50,7 +50,7 @@
     {
         "id"            : 4,
         "name_plato"    : "Pure con carne",
-        "img_plato"     : "../../../LIBRERIA/IMAGENES/img4.jpg",
+        "img_plato"     : "../../../LIBRERIA/IMAGENES/img5.jpeg",
         "descripcion"   : "",
         "tipo"          : [
             "home",
