@@ -18,6 +18,7 @@
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+}
 
 .titulo-bg {
     padding-top: 265px;
@@ -26,9 +27,7 @@
     
 }
 
-.card-body{
-    
-}
+
 
 .arreglo-input {
     
